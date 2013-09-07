@@ -1,0 +1,646 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="800px"
+   height="600px"
+   id="svg2985"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="ComponentSpecificationMeasure.svg"
+   inkscape:export-filename="/home/k00ni/.Priv/Studium/Master_Informatik_Uni_Leipzig/SS 13/Masterarbeit/Thesis/Grafiken/DataCubeVocabulary_ObservationIllustration.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs2987" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.6970563"
+     inkscape:cx="504.21489"
+     inkscape:cy="348.60095"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata2990">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <text
+       xml:space="preserve"
+       style="font-size:15.98483181px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="178.32353"
+       y="79.893761"
+       id="text3833-3-1-8-6-0-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="178.32353"
+         y="79.893761"
+         style="font-size:16px;font-style:italic;font-weight:normal;-inkscape-font-specification:Sans Italic"
+         id="tspan4305-1">Künstliche Komponenten-Spezifikation für den Messwert</tspan></text>
+    <rect
+       style="fill:#dbf4f0;fill-opacity:1;stroke:#000000;stroke-width:1.15708303;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3027-8-4-8"
+       width="23.842916"
+       height="23.842916"
+       x="386.4313"
+       y="23.331871"
+       ry="6.3054891" />
+    <g
+       inkscape:label="Layer 1"
+       id="layer1-6"
+       transform="matrix(0.48722168,0,0,0.50197826,390.88187,27.243711)">
+      <text
+         transform="scale(0.94975411,1.0529041)"
+         sodipodi:linespacing="125%"
+         id="text3005"
+         y="9.5886145"
+         x="-0.3224436"
+         style="font-size:41.32844162px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:13.43174171px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
+           y="9.5886145"
+           x="-0.3224436"
+           id="tspan3007"
+           sodipodi:role="line">0.987</tspan></text>
+      <text
+         transform="scale(0.71685471,1.3949828)"
+         sodipodi:linespacing="125%"
+         id="text3005-0"
+         y="22.653902"
+         x="14.470115"
+         style="font-size:55.06734848px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:17.89688873px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
+           y="22.653902"
+           x="14.470115"
+           id="tspan3007-4"
+           sodipodi:role="line">100</tspan></text>
+      <text
+         transform="matrix(0,0.9931025,-1.0069454,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3005-0-2"
+         y="-0.25791031"
+         x="10.20822"
+         style="font-size:34.85575485px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:11.32811928px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
+           y="-0.25791031"
+           x="10.20822"
+           id="tspan3007-4-7"
+           sodipodi:role="line">11.0</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:14.3111496px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="7.2467194"
+       y="117.07053"
+       id="text3833-3-1-8-6-7-62-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="7.2467194"
+         y="117.07053"
+         style="font-size:14.32472897px;font-weight:bold;-inkscape-font-specification:Sans Bold"
+         id="tspan4025-4-4-86">RDF-Ebene</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.3111496px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="2.7103424"
+       y="154.90335"
+       id="text3833-3-1-8-6-7-2-1-7-9-2-54-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="2.7103424"
+         y="154.90335"
+         style="font-size:11.63884258px;font-weight:bold;-inkscape-font-specification:Sans Bold"
+         id="tspan4025-4-6-9-7-6-8-8-0">rdfs:label</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.98832893px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="747.75421"
+       y="152.46323"
+       id="text3833-3-1-8-6-7-2-1-7-9-2-5-7-1-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="747.75421"
+         y="152.46323"
+         style="font-size:11.37630177px;font-weight:bold;-inkscape-font-specification:Sans Bold"
+         id="tspan4025-4-6-9-7-6-8-4-7-4-8">__cv_uri</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.06978035px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="512.04156"
+       y="177.94046"
+       id="text3833-6-8-4-8-0-2-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="512.04156"
+         y="177.94046"
+         style="font-size:12.2514019px"
+         id="tspan3085-3-6-0">[DOMAIN]/cubeviz/export/datacube/[HASH]</tspan><tspan
+         sodipodi:role="line"
+         x="512.04156"
+         y="193.25471"
+         style="font-size:12.2514019px"
+         id="tspan3267-7">#<tspan
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+   id="tspan3272-8">componentSpecificationMeasure</tspan><tspan
+   style="font-style:italic;font-weight:bold;-inkscape-font-specification:Sans Bold Italic"
+   id="tspan3270-0" /></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.3111496px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="701.90338"
+       y="116.61979"
+       id="text3833-3-1-8-6-7-62-7-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="701.90338"
+         y="116.61979"
+         style="font-size:14.32472897px;font-weight:bold;-inkscape-font-specification:Sans Bold"
+         id="tspan4025-4-4-8-8">Tool-Ebene</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.06978035px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="20.906509"
+       y="178.73318"
+       id="text3833-6-8-4-8-7-9-5-4-5-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="20.906509"
+         y="178.73318"
+         style="font-size:12.2514019px;fill:#000000;fill-opacity:1"
+         id="tspan4229-5-1-1">Artifical Component Specification of 'X' and 'Y'</tspan></text>
+    <rect
+       style="fill:#b3b3b3;fill-opacity:1;stroke:none"
+       id="rect3806-4-1-8-80-7"
+       width="794.28296"
+       height="1.614058"
+       x="-5.1091537"
+       y="-127.39786"
+       ry="0.0055039357"
+       transform="matrix(0.99999999,-1.073407e-4,-0.05597819,-0.99843199,0,0)" />
+    <rect
+       style="fill:#b3b3b3;fill-opacity:1;stroke:none"
+       id="rect3806-4-1-8-80-1-81"
+       width="794.28296"
+       height="0.48203918"
+       x="-42.285049"
+       y="-233.23132"
+       ry="0.0016437529"
+       transform="matrix(1,-3.1538638e-5,-0.18743714,-0.9822766,0,0)" />
+    <rect
+       style="fill:#b3b3b3;fill-opacity:1;stroke:none"
+       id="rect3806-4-1-8-80-5-8"
+       width="794.28296"
+       height="1.614058"
+       x="-4.3297043"
+       y="-98.296059"
+       ry="0.0055039357"
+       transform="matrix(0.99999999,-1.073407e-4,-0.05597819,-0.99843199,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="21.303482"
+       y="196.68332"
+       id="text3426-1-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3428-8-1"
+         x="21.303482"
+         y="196.68332"
+         style="font-size:11px">(Wobei X und Y die jeweiligen Titel von <tspan
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+   id="tspan3432-9-3">Komponenten-Spezifikation 1 </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="21.303482"
+         y="210.43332"
+         id="tspan3430-3-1"
+         style="font-size:11px"> und <tspan
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+   id="tspan3434-1-3">Komponenten-Spezifikation 2 </tspan>repräsentieren)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.3111496px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="1.2901968"
+       y="252.96268"
+       id="text3833-3-1-8-6-7-2-1-7-9-2-0-4-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="1.2901968"
+         y="252.96268"
+         style="font-size:11.63884258px;font-weight:bold;-inkscape-font-specification:Sans Bold"
+         id="tspan4025-4-6-9-7-6-8-1-5-0">rdfs:comment</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.3111496px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="698.72614"
+       y="252.52612"
+       id="text3833-3-1-8-6-7-2-1-7-9-2-5-4-9-1-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="698.72614"
+         y="252.52612"
+         style="font-size:11.63884258px;font-weight:bold;-inkscape-font-specification:Sans Bold"
+         id="tspan4025-4-6-9-7-6-8-4-6-8-2-0">__cv_hashedUri</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.39447975px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="634.00433"
+       y="274.9856"
+       id="text3833-6-8-4-8-7-9-5-7-3-8-2-6-4-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="634.00433"
+         y="274.9856"
+         style="font-size:12.53413773px;fill:#000000;fill-opacity:1"
+         id="tspan4266-9-3-2-8-0-1">MD5-Hash von __cv_uri</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.06978035px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="21.735384"
+       y="274.8371"
+       id="text3833-6-8-4-8-7-9-5-4-5-6-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="21.735384"
+         y="274.8371"
+         style="font-size:12.2514019px;font-style:normal;fill:#000000;fill-opacity:1;-inkscape-font-specification:Sans Italic"
+         id="tspan3406-0">Its an artifical component specification and it consists of '<tspan
+   style="font-style:italic;-inkscape-font-specification:Sans Italic"
+   id="tspan4258-0">X'</tspan> and '<tspan
+   style="font-style:italic;-inkscape-font-specification:Sans Italic"
+   id="tspan4260-8">Y'</tspan></tspan></text>
+    <rect
+       style="fill:#b3b3b3;fill-opacity:1;stroke:none"
+       id="rect3806-4-1-8-80-1-8-9"
+       width="794.28296"
+       height="0.48203918"
+       x="-59.602081"
+       y="-331.2171"
+       ry="0.0016437529"
+       transform="matrix(1,-3.1538638e-5,-0.18743714,-0.9822766,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="22.027285"
+       y="295.33664"
+       id="text3426-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3428-4"
+         x="22.027285"
+         y="295.33664"
+         style="font-size:11px">(Wobei X und Y die jeweiligen Titel von <tspan
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+   id="tspan3432-3">Komponenten-Spezifikation 1 </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="22.027285"
+         y="309.08664"
+         id="tspan3430-33"
+         style="font-size:11px"> und <tspan
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+   id="tspan3434-7">Komponenten-Spezifikation 2 </tspan>repräsentieren)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.3111496px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="702.08087"
+       y="346.6568"
+       id="text3833-3-1-8-6-7-2-1-7-9-2-5-6-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="702.08087"
+         y="346.6568"
+         style="font-size:11.63884258px;font-weight:bold;-inkscape-font-specification:Sans Bold"
+         id="tspan4025-4-6-9-7-6-8-4-3-5">__cv_niceLabel</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.39447975px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="657.68378"
+       y="364.95941"
+       id="text3833-6-8-4-8-7-9-5-7-3-8-4-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="657.68378"
+         y="364.95941"
+         style="font-size:12.53413773px;fill:#000000;fill-opacity:1"
+         id="tspan4266-9-3-6-2">Wert von <tspan
+   style="font-style:italic;-inkscape-font-specification:Sans Italic"
+   id="tspan3235-2">rdfs:label</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.3111496px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="692.50006"
+       y="411.50558"
+       id="text3833-3-1-8-6-7-2-1-7-9-2-5-4-98-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="692.50006"
+         y="411.50558"
+         style="font-size:11.63884258px;font-weight:bold;-inkscape-font-specification:Sans Bold"
+         id="tspan4025-4-6-9-7-6-8-4-6-14-5">__cv_description</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.39447975px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="15.135588"
+       y="436.45938"
+       id="text3833-6-8-4-05-2-0-0-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="15.135588"
+         y="436.45938"
+         id="tspan3990-6-6-9-86-0-1"
+         style="font-size:12.53413773px">http://purl.org/linked-data/cube#<tspan
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+   id="tspan3265-6">ComponentSpecification</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.3111496px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="0.36214948"
+       y="413.49796"
+       id="text3833-3-1-8-6-7-2-1-7-9-2-5-4-0-7-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="0.36214948"
+         y="413.49796"
+         style="font-size:11.63884258px;font-weight:bold;-inkscape-font-specification:Sans Bold"
+         id="tspan4025-4-6-9-7-6-8-4-6-1-3-5">rdf:type</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.39447975px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="629.34601"
+       y="434.58841"
+       id="text3833-6-8-4-8-7-9-5-7-3-8-4-1-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="629.34601"
+         y="434.58841"
+         style="font-size:12.53413773px;fill:#000000;fill-opacity:1"
+         id="tspan4266-9-3-6-4-7">Wert von <tspan
+   style="font-style:italic;-inkscape-font-specification:Sans Italic"
+   id="tspan3235-1-1">rdfs:comment</tspan></tspan></text>
+    <rect
+       style="fill:#b3b3b3;fill-opacity:1;stroke:none"
+       id="rect3806-4-1-8-80-1-1-9"
+       width="794.28296"
+       height="0.48203918"
+       x="-74.680901"
+       y="-397.12747"
+       ry="0.0016437529"
+       transform="matrix(1,-3.1538638e-5,-0.18743714,-0.9822766,0,0)" />
+    <rect
+       style="fill:#b3b3b3;fill-opacity:1;stroke:none"
+       id="rect3806-4-1-8-80-1-8-3-0"
+       width="794.28296"
+       height="0.48203918"
+       x="-85.849358"
+       y="-465.23587"
+       ry="0.0016437529"
+       transform="matrix(1,-3.1538638e-5,-0.18743714,-0.9822766,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-size:14.3111496px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="1.0291724"
+       y="348.91125"
+       id="text3833-3-1-8-6-7-2-1-7-9-2-5-4-9-3-2-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="1.0291724"
+         y="348.91125"
+         style="font-size:11.63884258px;font-weight:bold;-inkscape-font-specification:Sans Bold"
+         id="tspan4025-4-6-9-7-6-8-4-6-8-9-5-7">dc:created</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.39447975px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="15.563597"
+       y="372.60712"
+       id="text3833-6-8-4-05-2-3-17-6-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="15.563597"
+         y="372.60712"
+         id="tspan3990-6-6-9-8-2-4-7"
+         style="font-size:12.53413773px">Erstelldatum und - uhrzeit</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.39447975px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="14.92419"
+       y="502.83231"
+       id="text3833-6-8-4-8-7-9-5-7-9-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="14.92419"
+         y="502.83231"
+         style="font-size:12.53413773px;fill:#000000;fill-opacity:1"
+         id="tspan4266-1-6">URI von <tspan
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+   id="tspan3402-2">Komponenten-Spezifikation 1</tspan>,  </tspan><tspan
+         sodipodi:role="line"
+         x="14.92419"
+         y="518.5"
+         style="font-size:12.53413773px;fill:#000000;fill-opacity:1"
+         id="tspan3399-8">URI von <tspan
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+   id="tspan3404-4">Komponenten-Spezifikation 2</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.3111496px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="0.32726678"
+       y="479.72726"
+       id="text3833-3-1-8-6-7-2-1-5-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="0.32726678"
+         y="479.72726"
+         style="font-size:11.63884258px;font-weight:bold;-inkscape-font-specification:Sans Bold"
+         id="tspan4025-4-6-9-0-8">dc:source</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.98832893px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="567.15546"
+       y="478.00186"
+       id="text3833-3-1-8-6-7-2-4-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="567.15546"
+         y="478.00186"
+         style="font-size:11.37630177px;font-weight:bold;-inkscape-font-specification:Sans Bold"
+         id="tspan4025-4-6-97-7">__cv_sourceComponentSpecification</tspan></text>
+    <rect
+       style="fill:#b3b3b3;fill-opacity:1;stroke:none"
+       id="rect3806-4-1-8-80-1-8-3-6-9"
+       width="794.28296"
+       height="0.48203918"
+       x="-100.71767"
+       y="-545.06226"
+       ry="0.0016437529"
+       transform="matrix(1,-3.1538638e-5,-0.18743714,-0.9822766,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-size:14.3111496px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="2.169735"
+       y="555.77716"
+       id="text3833-3-1-8-6-7-2-1-7-9-2-5-4-9-3-5-9-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="2.169735"
+         y="555.77716"
+         style="font-size:11.63884258px;font-weight:bold;-inkscape-font-specification:Sans Bold"
+         id="tspan4025-4-6-9-7-6-8-4-6-8-9-3-0-3">qb:measure</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.39447975px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="21.959652"
+       y="581.6745"
+       id="text3833-6-8-4-05-2-3-1-3-7-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="21.959652"
+         y="581.6745"
+         style="font-size:12.53413773px"
+         id="tspan3274-6">[DOMAIN]/cubeviz/export/[HASH]#measure<tspan
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+   id="tspan3278-6" /></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.39447975px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="461.09918"
+       y="502.18509"
+       id="text3833-6-8-4-8-7-9-5-7-9-5-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="461.09918"
+         y="502.18509"
+         style="font-size:12.53413773px;fill:#000000;fill-opacity:1"
+         id="tspan4266-1-9-8">JSON-Objekt von <tspan
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+   id="tspan3402-1-8">Komponenten-Spezifikation 1</tspan>,  </tspan><tspan
+         sodipodi:role="line"
+         x="461.09918"
+         y="517.85278"
+         style="font-size:12.53413773px;fill:#000000;fill-opacity:1"
+         id="tspan3399-0-0">JSON-Objekt von <tspan
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+   id="tspan3404-9-0">Komponenten-Spezifikation 2</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.98832893px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="691.63373"
+       y="557.987"
+       id="text3833-3-1-8-6-7-2-4-3-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="691.63373"
+         y="557.987"
+         style="font-size:11.37630177px;font-weight:bold;-inkscape-font-specification:Sans Bold"
+         id="tspan4025-4-6-97-5-5">__cv_oldMeasure</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.39447975px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="431.74417"
+       y="582.17017"
+       id="text3833-6-8-4-8-7-9-5-7-9-5-1-03"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="431.74417"
+         y="582.17017"
+         style="font-size:12.53413773px;fill:#000000;fill-opacity:1"
+         id="tspan4266-1-9-0-9"><tspan
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+   id="tspan3402-1-4-8"><tspan
+   style="font-weight:normal;-inkscape-font-specification:Sans"
+   id="tspan3506-7">qb:measure-Wert von</tspan> Komponenten-Spezifikation 1</tspan>,  </tspan><tspan
+         sodipodi:role="line"
+         x="431.74417"
+         y="597.83783"
+         style="font-size:12.53413773px;fill:#000000;fill-opacity:1"
+         id="tspan3399-0-8-6"><tspan
+           style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+           id="tspan3404-9-2-8"><tspan
+   style="font-weight:normal;-inkscape-font-specification:Sans"
+   id="tspan3508-7">qb:measure-Wert von</tspan> Komponenten-Spezifikation 2</tspan></tspan></text>
+    <rect
+       style="fill:#b3b3b3;fill-opacity:1;stroke:none"
+       id="rect3806-4-1-8-80-1-8-3-6-6-5"
+       width="794.28296"
+       height="0.48203918"
+       x="-113.79681"
+       y="-627.91553"
+       ry="0.0016437529"
+       transform="matrix(1,-3.1538638e-5,-0.18743714,-0.9822766,0,0)" />
+    <g
+       inkscape:label="Layer 1"
+       id="layer1-63"
+       transform="matrix(0.57256411,0,0,0.57256411,305.82263,567.52121)">
+      <text
+         transform="scale(0.94975411,1.0529041)"
+         sodipodi:linespacing="125%"
+         id="text3005-8"
+         y="9.5886145"
+         x="-0.3224436"
+         style="font-size:41.32844162px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:13.43174171px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
+           y="9.5886145"
+           x="-0.3224436"
+           id="tspan3007-48"
+           sodipodi:role="line">0.987</tspan></text>
+      <text
+         transform="scale(0.71685471,1.3949828)"
+         sodipodi:linespacing="125%"
+         id="text3005-0-7"
+         y="22.653902"
+         x="14.470115"
+         style="font-size:55.06734848px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:17.89688873px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
+           y="22.653902"
+           x="14.470115"
+           id="tspan3007-4-0"
+           sodipodi:role="line">100</tspan></text>
+      <text
+         transform="matrix(0,0.9931025,-1.0069454,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3005-0-2-1"
+         y="-0.25791031"
+         x="10.20822"
+         style="font-size:34.85575485px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:11.32811928px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
+           y="-0.25791031"
+           x="10.20822"
+           id="tspan3007-4-7-2"
+           sodipodi:role="line">11.0</tspan></text>
+    </g>
+  </g>
+</svg>

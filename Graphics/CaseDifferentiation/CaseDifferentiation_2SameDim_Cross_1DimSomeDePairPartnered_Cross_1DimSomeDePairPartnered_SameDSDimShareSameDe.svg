@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="CaseDifferentiation_2SameDim_Cross_1DimSomeDePairPartnered_Cross_1DimSomeDePairPartnered_SameDSDimShareSameDe.svg">
+  <defs
+     id="defs4">
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern3012-6"
+       id="pattern3148"
+       patternTransform="matrix(6.4548816,0,0,3.6930219,43.769836,152.38962)" />
+    <pattern
+       patternTransform="matrix(10,0,0,10,-6.5774636,-10.716251)"
+       id="pattern3020"
+       xlink:href="#Strips1_1.5"
+       inkscape:collect="always" />
+    <pattern
+       inkscape:stockid="Stripes 1:1.5"
+       id="Strips1_1.5"
+       patternTransform="translate(0,0) scale(10,10)"
+       height="1"
+       width="2.5"
+       patternUnits="userSpaceOnUse"
+       inkscape:collect="always">
+      <rect
+         id="rect4493"
+         height="2"
+         width="1"
+         y="-0.5"
+         x="0"
+         style="fill:black;stroke:none" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       patternUnits="userSpaceOnUse"
+       width="2.5"
+       height="1"
+       patternTransform="translate(0,0) scale(10,10)"
+       id="Strips1_1.5-25"
+       inkscape:stockid="Stripes 1:1.5">
+      <rect
+         style="fill:black;stroke:none"
+         x="0"
+         y="-0.5"
+         width="1"
+         height="2"
+         id="rect4493-6" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Strips1_1.5-25"
+       id="pattern5264-9"
+       patternTransform="matrix(10,0,0,10,-0.50604,-16.78768)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern5264-9"
+       id="pattern3012-6"
+       patternTransform="matrix(6.4548816,0,0,3.6930219,37.995659,47.569226)" />
+    <pattern
+       inkscape:collect="always"
+       patternUnits="userSpaceOnUse"
+       width="2.5"
+       height="1"
+       patternTransform="translate(0,0) scale(10,10)"
+       id="Strips1_1.5-6"
+       inkscape:stockid="Stripes 1:1.5">
+      <rect
+         style="fill:black;stroke:none"
+         x="0"
+         y="-0.5"
+         width="1"
+         height="2"
+         id="rect4493-3" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Strips1_1.5-6"
+       id="pattern3020-1"
+       patternTransform="matrix(10,0,0,10,-6.5774636,-10.716251)" />
+    <pattern
+       inkscape:collect="always"
+       patternUnits="userSpaceOnUse"
+       width="2.5"
+       height="1"
+       patternTransform="translate(0,0) scale(10,10)"
+       id="Strips1_1.5-4-7"
+       inkscape:stockid="Stripes 1:1.5">
+      <rect
+         style="fill:black;stroke:none"
+         x="0"
+         y="-0.5"
+         width="1"
+         height="2"
+         id="rect4493-7-6" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Strips1_1.5-4-7"
+       id="pattern3020-2"
+       patternTransform="matrix(10,0,0,10,-6.5774636,-10.716251)" />
+    <pattern
+       patternTransform="matrix(10,0,0,10,-6.5774636,-10.716251)"
+       id="pattern3020-0"
+       xlink:href="#Strips1_1.5-4"
+       inkscape:collect="always" />
+    <pattern
+       inkscape:stockid="Stripes 1:1.5"
+       id="Strips1_1.5-4"
+       patternTransform="translate(0,0) scale(10,10)"
+       height="1"
+       width="2.5"
+       patternUnits="userSpaceOnUse"
+       inkscape:collect="always">
+      <rect
+         id="rect4493-7"
+         height="2"
+         width="1"
+         y="-0.5"
+         x="0"
+         style="fill:black;stroke:none" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       patternUnits="userSpaceOnUse"
+       width="2.5"
+       height="1"
+       patternTransform="translate(0,0) scale(10,10)"
+       id="Strips1_1.5-44"
+       inkscape:stockid="Stripes 1:1.5">
+      <rect
+         style="fill:black;stroke:none"
+         x="0"
+         y="-0.5"
+         width="1"
+         height="2"
+         id="rect4493-2" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Strips1_1.5-44"
+       id="pattern5264"
+       patternTransform="matrix(10,0,0,10,-0.50604,-16.78768)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern5264"
+       id="pattern3012"
+       patternTransform="matrix(6.4548816,0,0,3.6930219,37.995659,47.569226)" />
+    <pattern
+       patternTransform="matrix(10,0,0,10,-6.5774636,-10.716251)"
+       id="pattern3020-9"
+       xlink:href="#Strips1_1.5-4-1"
+       inkscape:collect="always" />
+    <pattern
+       inkscape:stockid="Stripes 1:1.5"
+       id="Strips1_1.5-4-1"
+       patternTransform="translate(0,0) scale(10,10)"
+       height="1"
+       width="2.5"
+       patternUnits="userSpaceOnUse"
+       inkscape:collect="always">
+      <rect
+         id="rect4493-7-64"
+         height="2"
+         width="1"
+         y="-0.5"
+         x="0"
+         style="fill:black;stroke:none" />
+    </pattern>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="177.33252"
+     inkscape:cy="967.0073"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:24.68094826px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="58.597359"
+       y="54.872623"
+       id="text3813-05-2-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3815-6-1-8"
+         x="58.597359"
+         y="54.872623">D1'</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24.54037666px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="217.66222"
+       y="19.974611"
+       id="text3813-05-2-3-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3815-6-1-9-87"
+         x="217.66222"
+         y="19.974611">D1''</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24.68094826px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="208.49272"
+       y="84.689438"
+       id="text3813-05-2-1-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3815-6-1-8-7"
+         x="208.49272"
+         y="84.689438">D2'</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24.54037666px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="110.48381"
+       y="155.49519"
+       id="text3813-05-2-3-6-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3815-6-1-9-87-1"
+         x="110.48381"
+         y="155.49519">D2''</tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-opacity:1"
+       id="path2990-2-1"
+       sodipodi:cx="128.28937"
+       sodipodi:cy="118.47616"
+       sodipodi:rx="39.39595"
+       sodipodi:ry="39.39595"
+       d="m 167.68532,118.47616 a 39.39595,39.39595 0 1 1 -78.791903,0 39.39595,39.39595 0 1 1 78.791903,0 z"
+       transform="matrix(1.0131785,0,0,1.0106122,-0.99376077,-30.503376)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       id="path2990-2-8-7"
+       sodipodi:cx="128.28937"
+       sodipodi:cy="118.47616"
+       sodipodi:rx="39.39595"
+       sodipodi:ry="39.39595"
+       d="m 167.68532,118.47616 a 39.39595,39.39595 0 1 1 -78.791903,0 39.39595,39.39595 0 1 1 78.791903,0 z"
+       transform="matrix(0.03784063,1.0106453,-1.0106453,0.03784063,286.69888,-92.088466)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:2.7942822;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path2990-2-1-6"
+       sodipodi:cx="128.28937"
+       sodipodi:cy="118.47616"
+       sodipodi:rx="39.39595"
+       sodipodi:ry="39.39595"
+       d="m 167.68532,118.47616 a 39.39595,39.39595 0 1 1 -78.791903,0 39.39595,39.39595 0 1 1 78.791903,0 z"
+       transform="matrix(0.01339014,0.35762308,-0.35762308,0.01339014,232.98114,9.711893)" />
+    <path
+       style="fill:#e9c6af;fill-opacity:1;stroke:none"
+       d="m 163.81139,80.125158 c -5.40036,-1.158598 -11.49352,-3.971063 -15.79818,-7.292085 -4.31668,-3.330299 -8.79694,-8.728774 -11.20082,-13.496414 -1.05816,-2.098648 -3.38321,-8.609071 -3.15577,-8.836516 0.20282,-0.202815 5.15932,0.89715 7.41301,1.645121 8.98508,2.982037 16.38406,9.043684 21.46393,17.584408 2.24217,3.769739 4.90406,11.035187 4.01087,10.947398 -0.16293,-0.01601 -1.3928,-0.264374 -2.73304,-0.551912 z"
+       id="path3819"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:2.7942822;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path2990-2-1-6-0"
+       sodipodi:cx="128.28937"
+       sodipodi:cy="118.47616"
+       sodipodi:rx="39.39595"
+       sodipodi:ry="39.39595"
+       d="m 167.68532,118.47616 a 39.39595,39.39595 0 1 1 -78.791903,0 39.39595,39.39595 0 1 1 78.791903,0 z"
+       transform="matrix(0.01339014,0.35762308,-0.35762308,0.01339014,152.527,22.575102)" />
+    <path
+       style="fill:#e9c6af;fill-opacity:1;stroke:none"
+       d="M 109.68796,83.323581 C 100.7661,81.743306 95.872322,72.019353 99.927254,63.929023 c 2.126386,-4.242532 7.183206,-7.356021 11.947386,-7.356021 5.9178,0 11.47233,4.321176 13.01764,10.127133 1.41348,5.310646 -0.87873,11.268536 -5.58201,14.508669 -2.53092,1.743576 -6.63081,2.644643 -9.62231,2.114777 l 0,0 z"
+       id="path3019"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#e9c6af;fill-opacity:1;stroke:none"
+       d="m 190.66654,70.541066 c -5.33534,-0.826682 -9.79196,-4.641301 -11.23225,-9.614173 -1.22746,-4.238063 -0.2853,-8.732756 2.58808,-12.346798 1.27053,-1.598024 3.94235,-3.404541 6.11879,-4.137144 5.67151,-1.909064 12.0098,0.280044 15.36695,5.307405 1.56658,2.345984 2.17609,4.437496 2.17004,7.446526 -0.006,3.099598 -0.71813,5.329413 -2.49769,7.823251 -2.76963,3.881288 -8.05284,6.212155 -12.51392,5.520933 z"
+       id="path3021"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
