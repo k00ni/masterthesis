@@ -1,8 +1,9 @@
-
 My master thesis. Its release under the terms of [Creative Commons Attribution-ShareAlike 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0).
 So feel free to use it for your own work.
 
 **Key words:** DataCube, Linked Data Mashup, Statistics, Visualization
+
+**Download:** [PDF](https://github.com/k00ni/masterthesis/raw/master/thesis.pdf), [Latex](https://github.com/k00ni/masterthesis/raw/master/thesis.tex)
 
 # Exploration and Visualization of statistical Linked Data Mashup's
 
