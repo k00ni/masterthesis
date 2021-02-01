@@ -1,4 +1,4 @@
-My master thesis. Its release under the terms of [Creative Commons Attribution-ShareAlike 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0).
+My master thesis is released under the terms of [Creative Commons Attribution-ShareAlike 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0).
 So feel free to use it for your own work.
 
 **Key words:** DataCube, Linked Data Mashup, Statistics, Visualization
